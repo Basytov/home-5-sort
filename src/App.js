@@ -25,8 +25,7 @@ function App() {
     uptadeNew.push(data);
     setSortBe(uptadeNew)
 
-    // console.log(uptadeNew);
-
+    
     }
  
 

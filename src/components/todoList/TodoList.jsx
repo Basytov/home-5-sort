@@ -17,4 +17,4 @@ const TodoList = ({sortBe}) => {
   )
 }
 
-export default TodoList
+export default TodoList;
