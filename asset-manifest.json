@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-5-sort/static/css/main.c166b4ff.css",
+    "main.js": "/home-5-sort/static/js/main.5c3067a5.js",
+    "index.html": "/home-5-sort/index.html",
+    "main.c166b4ff.css.map": "/home-5-sort/static/css/main.c166b4ff.css.map",
+    "main.5c3067a5.js.map": "/home-5-sort/static/js/main.5c3067a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c166b4ff.css",
+    "static/js/main.5c3067a5.js"
+  ]
+}
