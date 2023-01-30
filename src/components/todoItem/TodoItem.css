@@ -3,9 +3,9 @@
     font-size: 20px;    
 }
 .item p{
-    border: 1px solid;
+    border: 3px solid;
     height: 35px;
     padding-left: 1rem;
     border-radius: 3px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.854);
 }
